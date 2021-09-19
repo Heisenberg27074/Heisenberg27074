@@ -1,4 +1,4 @@
-<h1 align="center">(Professional == true) ? 👨👓 - Kunal  : 👨😎🎩 - Heisenberg ✅</h1>
+<h1 align="center">Hello, 👋 I am Kunal.</h1>
 <h3 align="center">Just a simple full stack developer, who wants to develop non-simple things😎</h3>
 
 - 🌱 I’m currently learning **React**
